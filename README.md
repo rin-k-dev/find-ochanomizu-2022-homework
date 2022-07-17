@@ -1,2 +1,3 @@
 # find-ochanomizu-2022-homework
-デジハリのWordPress講座。GitHub練習用。
+
+デジハリの WordPress 講座課題。GitHub 練習用。
